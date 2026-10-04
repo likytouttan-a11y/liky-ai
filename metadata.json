@@ -1,0 +1,6 @@
+{
+  "name": "Liky AI",
+  "description": "Next-generation multimodal AI assistant with streaming chat, deep research, web search, document analysis, voice, creative canvas, and custom assistants.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
